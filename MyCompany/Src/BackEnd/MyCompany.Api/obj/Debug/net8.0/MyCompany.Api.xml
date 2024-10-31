@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MyCompany.Api</name>
+    </assembly>
+    <members>
+        <member name="M:MyCompany.Api.Controllers.FornecedorController.Register(MyCompany.Application.UseCase.Fornecedor.Register.IRegisterFornecedor,MyCompany.Communication.Request.RequestNewFornecedorJson)">
+            <summary>
+            Cadastro de Fornecedor
+            </summary>
+            <remarks>{"nome": "string","cnpj": "string","email": "string"}</remarks>
+            <param name="useCase">Chamada do metodo</param>
+            <param name="request">Json com as informações do cadastro</param>
+            <returns>Json com os dados do cadastro mas sem ID</returns>
+            <response code="201">Sucesso</response>
+            <response code="400">Error</response>
+        </member>
+        <member name="M:MyCompany.Api.Controllers.FornecedorController.ListAllFornecedor(MyCompany.Application.UseCase.Fornecedor.ListAll.IListFornecedor)">
+            <summary>
+            Obter uma lista com todos os fornecedores
+            </summary>
+            <remarks> {"fornecedores": [{"id": int,"ativo": bool,"nome": string,"cnpj": string,"email": string}]},</remarks>
+            <param name="useCase">Chamada do metodo</param>
+            <returns>Json com todos os fornecedores</returns>
+            <response code="200">Sucesso</response>
+        </member>
+        <member name="M:MyCompany.Api.Controllers.FornecedorController.GetFornecedorId(MyCompany.Application.UseCase.Fornecedor.GetForId.IGetFornecedorId,System.Int32)">
+            <summary>
+            Obter o cadastro de um Fornecedor pelo Id
+            </summary>
+            <remarks>Tabela:Fornecedor field:Id </remarks>
+            <param name="useCase">Chamada do metodo</param>
+            <param name="Id">Id tabela Fornecedor</param>
+            <returns>Json do cadastro do Fornecedor</returns>
+            <response code="200">Sucesso</response>
+            <response code="400">Sucesso sem conteudo</response>
+        </member>
+        <member name="M:MyCompany.Api.Controllers.FornecedorController.DeleteFornecedor(MyCompany.Application.UseCase.Fornecedor.Delete.IDeleteFornecedor,System.Int32)">
+            <summary>
+            Deletar o cadastro do Fornecedor
+            </summary>
+            <param name="useCase">Chamada do metodo</param>
+            <param name="Id">Id tabela Fornecedor</param>
+            <returns>sem retorno</returns>
+            <response code="204">Sucesso</response>
+            <response code="400">Error List</response>
+        </member>
+        <member name="M:MyCompany.Api.Controllers.FornecedorController.UpdateFornecedor(MyCompany.Application.UseCase.Fornecedor.Update.IUpdateFornecedor,MyCompany.Communication.Request.RequestFornecedorJson)">
+            <summary>
+            Atualizar o cadastro de Fornecedor
+            </summary>
+            <remarks> Json: {"id": int,"ativo": bool,"nome": string,"cnpj": string,"email": string} </remarks>
+            <param name="useCase">Chamada do metodo</param>
+            <param name="request">Json com as informações do cadastro</param>
+            <returns>Sem retorno</returns>
+            <response code="202">Accepted</response>
+            <response code="400">List Error</response>
+        </member>
+    </members>
+</doc>

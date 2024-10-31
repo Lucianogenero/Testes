@@ -1,0 +1,11 @@
+C:\Projetos\Testes\MyCompany - Dapper\MyCompany\Src\Shared\MyCompany.Exceptions\bin\Debug\net8.0\MyCompany.Exceptions.deps.json
+C:\Projetos\Testes\MyCompany - Dapper\MyCompany\Src\Shared\MyCompany.Exceptions\bin\Debug\net8.0\MyCompany.Exceptions.dll
+C:\Projetos\Testes\MyCompany - Dapper\MyCompany\Src\Shared\MyCompany.Exceptions\bin\Debug\net8.0\MyCompany.Exceptions.pdb
+C:\Projetos\Testes\MyCompany - Dapper\MyCompany\Src\Shared\MyCompany.Exceptions\obj\Debug\net8.0\MyCompany.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Testes\MyCompany - Dapper\MyCompany\Src\Shared\MyCompany.Exceptions\obj\Debug\net8.0\MyCompany.Exceptions.AssemblyInfoInputs.cache
+C:\Projetos\Testes\MyCompany - Dapper\MyCompany\Src\Shared\MyCompany.Exceptions\obj\Debug\net8.0\MyCompany.Exceptions.AssemblyInfo.cs
+C:\Projetos\Testes\MyCompany - Dapper\MyCompany\Src\Shared\MyCompany.Exceptions\obj\Debug\net8.0\MyCompany.Exceptions.csproj.CoreCompileInputs.cache
+C:\Projetos\Testes\MyCompany - Dapper\MyCompany\Src\Shared\MyCompany.Exceptions\obj\Debug\net8.0\MyCompany.Exceptions.dll
+C:\Projetos\Testes\MyCompany - Dapper\MyCompany\Src\Shared\MyCompany.Exceptions\obj\Debug\net8.0\refint\MyCompany.Exceptions.dll
+C:\Projetos\Testes\MyCompany - Dapper\MyCompany\Src\Shared\MyCompany.Exceptions\obj\Debug\net8.0\MyCompany.Exceptions.pdb
+C:\Projetos\Testes\MyCompany - Dapper\MyCompany\Src\Shared\MyCompany.Exceptions\obj\Debug\net8.0\ref\MyCompany.Exceptions.dll

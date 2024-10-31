@@ -1,0 +1,11 @@
+C:\Projetos\Testes\MyCompany - Dapper\MyCompany\Src\BackEnd\MyCompany.Domain\bin\Debug\net8.0\MyCompany.Domain.deps.json
+C:\Projetos\Testes\MyCompany - Dapper\MyCompany\Src\BackEnd\MyCompany.Domain\bin\Debug\net8.0\MyCompany.Domain.dll
+C:\Projetos\Testes\MyCompany - Dapper\MyCompany\Src\BackEnd\MyCompany.Domain\bin\Debug\net8.0\MyCompany.Domain.pdb
+C:\Projetos\Testes\MyCompany - Dapper\MyCompany\Src\BackEnd\MyCompany.Domain\obj\Debug\net8.0\MyCompany.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Testes\MyCompany - Dapper\MyCompany\Src\BackEnd\MyCompany.Domain\obj\Debug\net8.0\MyCompany.Domain.AssemblyInfoInputs.cache
+C:\Projetos\Testes\MyCompany - Dapper\MyCompany\Src\BackEnd\MyCompany.Domain\obj\Debug\net8.0\MyCompany.Domain.AssemblyInfo.cs
+C:\Projetos\Testes\MyCompany - Dapper\MyCompany\Src\BackEnd\MyCompany.Domain\obj\Debug\net8.0\MyCompany.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\Testes\MyCompany - Dapper\MyCompany\Src\BackEnd\MyCompany.Domain\obj\Debug\net8.0\MyCompany.Domain.dll
+C:\Projetos\Testes\MyCompany - Dapper\MyCompany\Src\BackEnd\MyCompany.Domain\obj\Debug\net8.0\refint\MyCompany.Domain.dll
+C:\Projetos\Testes\MyCompany - Dapper\MyCompany\Src\BackEnd\MyCompany.Domain\obj\Debug\net8.0\MyCompany.Domain.pdb
+C:\Projetos\Testes\MyCompany - Dapper\MyCompany\Src\BackEnd\MyCompany.Domain\obj\Debug\net8.0\ref\MyCompany.Domain.dll

@@ -1,0 +1,13 @@
+C:\Projetos\Testes\MyCompany - Dapper\MyCompany\Src\Shared\MyCompany.Communication\bin\Debug\net8.0\MyCompany.Communication.deps.json
+C:\Projetos\Testes\MyCompany - Dapper\MyCompany\Src\Shared\MyCompany.Communication\bin\Debug\net8.0\MyCompany.Communication.dll
+C:\Projetos\Testes\MyCompany - Dapper\MyCompany\Src\Shared\MyCompany.Communication\bin\Debug\net8.0\MyCompany.Communication.pdb
+C:\Projetos\Testes\MyCompany - Dapper\MyCompany\Src\Shared\MyCompany.Communication\obj\Debug\net8.0\MyCompany.Communication.Response.ResourceMessagesException.ResourceMessageExceptions.resources
+C:\Projetos\Testes\MyCompany - Dapper\MyCompany\Src\Shared\MyCompany.Communication\obj\Debug\net8.0\MyCompany.Communication.csproj.GenerateResource.cache
+C:\Projetos\Testes\MyCompany - Dapper\MyCompany\Src\Shared\MyCompany.Communication\obj\Debug\net8.0\MyCompany.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Testes\MyCompany - Dapper\MyCompany\Src\Shared\MyCompany.Communication\obj\Debug\net8.0\MyCompany.Communication.AssemblyInfoInputs.cache
+C:\Projetos\Testes\MyCompany - Dapper\MyCompany\Src\Shared\MyCompany.Communication\obj\Debug\net8.0\MyCompany.Communication.AssemblyInfo.cs
+C:\Projetos\Testes\MyCompany - Dapper\MyCompany\Src\Shared\MyCompany.Communication\obj\Debug\net8.0\MyCompany.Communication.csproj.CoreCompileInputs.cache
+C:\Projetos\Testes\MyCompany - Dapper\MyCompany\Src\Shared\MyCompany.Communication\obj\Debug\net8.0\MyCompany.Communication.dll
+C:\Projetos\Testes\MyCompany - Dapper\MyCompany\Src\Shared\MyCompany.Communication\obj\Debug\net8.0\refint\MyCompany.Communication.dll
+C:\Projetos\Testes\MyCompany - Dapper\MyCompany\Src\Shared\MyCompany.Communication\obj\Debug\net8.0\MyCompany.Communication.pdb
+C:\Projetos\Testes\MyCompany - Dapper\MyCompany\Src\Shared\MyCompany.Communication\obj\Debug\net8.0\ref\MyCompany.Communication.dll

@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\Testes\\MyCompany - Dapper\\MyCompany\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCCF2A62-17F4-4789-8146-4B21C0B948C8}|Src\\BackEnd\\MyCompany.Infra\\MyCompany.Infra.csproj|c:\\projetos\\testes\\mycompany - dapper\\mycompany\\src\\backend\\mycompany.infra\\repository\\fornecedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCCF2A62-17F4-4789-8146-4B21C0B948C8}|Src\\BackEnd\\MyCompany.Infra\\MyCompany.Infra.csproj|solutionrelative:src\\backend\\mycompany.infra\\repository\\fornecedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13978065-78E4-4680-A4C8-DB1F22C655A9}|Src\\BackEnd\\MyCompany.Application\\MyCompany.Application.csproj|c:\\projetos\\testes\\mycompany - dapper\\mycompany\\src\\backend\\mycompany.application\\usecase\\fornecedor\\update\\updatefornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13978065-78E4-4680-A4C8-DB1F22C655A9}|Src\\BackEnd\\MyCompany.Application\\MyCompany.Application.csproj|solutionrelative:src\\backend\\mycompany.application\\usecase\\fornecedor\\update\\updatefornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13978065-78E4-4680-A4C8-DB1F22C655A9}|Src\\BackEnd\\MyCompany.Application\\MyCompany.Application.csproj|c:\\projetos\\testes\\mycompany - dapper\\mycompany\\src\\backend\\mycompany.application\\usecase\\fornecedor\\getforid\\igetfornecedorid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13978065-78E4-4680-A4C8-DB1F22C655A9}|Src\\BackEnd\\MyCompany.Application\\MyCompany.Application.csproj|solutionrelative:src\\backend\\mycompany.application\\usecase\\fornecedor\\getforid\\igetfornecedorid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13978065-78E4-4680-A4C8-DB1F22C655A9}|Src\\BackEnd\\MyCompany.Application\\MyCompany.Application.csproj|c:\\projetos\\testes\\mycompany - dapper\\mycompany\\src\\backend\\mycompany.application\\usecase\\fornecedor\\getforid\\getfornecedorid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13978065-78E4-4680-A4C8-DB1F22C655A9}|Src\\BackEnd\\MyCompany.Application\\MyCompany.Application.csproj|solutionrelative:src\\backend\\mycompany.application\\usecase\\fornecedor\\getforid\\getfornecedorid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17597C26-93DD-4F3C-A495-5298BA7EA22A}|Src\\BackEnd\\MyCompany.Api\\MyCompany.Api.csproj|c:\\projetos\\testes\\mycompany - dapper\\mycompany\\src\\backend\\mycompany.api\\controllers\\fornecedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17597C26-93DD-4F3C-A495-5298BA7EA22A}|Src\\BackEnd\\MyCompany.Api\\MyCompany.Api.csproj|solutionrelative:src\\backend\\mycompany.api\\controllers\\fornecedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateFornecedor.cs",
+              "DocumentMoniker": "C:\\Projetos\\Testes\\MyCompany - Dapper\\MyCompany\\Src\\BackEnd\\MyCompany.Application\\UseCase\\Fornecedor\\Update\\UpdateFornecedor.cs",
+              "RelativeDocumentMoniker": "Src\\BackEnd\\MyCompany.Application\\UseCase\\Fornecedor\\Update\\UpdateFornecedor.cs",
+              "ToolTip": "C:\\Projetos\\Testes\\MyCompany - Dapper\\MyCompany\\Src\\BackEnd\\MyCompany.Application\\UseCase\\Fornecedor\\Update\\UpdateFornecedor.cs",
+              "RelativeToolTip": "Src\\BackEnd\\MyCompany.Application\\UseCase\\Fornecedor\\Update\\UpdateFornecedor.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAjwBUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T22:35:37.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FornecedorRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\Testes\\MyCompany - Dapper\\MyCompany\\Src\\BackEnd\\MyCompany.Infra\\Repository\\FornecedorRepository.cs",
+              "RelativeDocumentMoniker": "Src\\BackEnd\\MyCompany.Infra\\Repository\\FornecedorRepository.cs",
+              "ToolTip": "C:\\Projetos\\Testes\\MyCompany - Dapper\\MyCompany\\Src\\BackEnd\\MyCompany.Infra\\Repository\\FornecedorRepository.cs",
+              "RelativeToolTip": "Src\\BackEnd\\MyCompany.Infra\\Repository\\FornecedorRepository.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T22:34:51.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IGetFornecedorId.cs",
+              "DocumentMoniker": "C:\\Projetos\\Testes\\MyCompany - Dapper\\MyCompany\\Src\\BackEnd\\MyCompany.Application\\UseCase\\Fornecedor\\GetForId\\IGetFornecedorId.cs",
+              "RelativeDocumentMoniker": "Src\\BackEnd\\MyCompany.Application\\UseCase\\Fornecedor\\GetForId\\IGetFornecedorId.cs",
+              "ToolTip": "C:\\Projetos\\Testes\\MyCompany - Dapper\\MyCompany\\Src\\BackEnd\\MyCompany.Application\\UseCase\\Fornecedor\\GetForId\\IGetFornecedorId.cs",
+              "RelativeToolTip": "Src\\BackEnd\\MyCompany.Application\\UseCase\\Fornecedor\\GetForId\\IGetFornecedorId.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T22:32:38.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetFornecedorId.cs",
+              "DocumentMoniker": "C:\\Projetos\\Testes\\MyCompany - Dapper\\MyCompany\\Src\\BackEnd\\MyCompany.Application\\UseCase\\Fornecedor\\GetForId\\GetFornecedorId.cs",
+              "RelativeDocumentMoniker": "Src\\BackEnd\\MyCompany.Application\\UseCase\\Fornecedor\\GetForId\\GetFornecedorId.cs",
+              "ToolTip": "C:\\Projetos\\Testes\\MyCompany - Dapper\\MyCompany\\Src\\BackEnd\\MyCompany.Application\\UseCase\\Fornecedor\\GetForId\\GetFornecedorId.cs",
+              "RelativeToolTip": "Src\\BackEnd\\MyCompany.Application\\UseCase\\Fornecedor\\GetForId\\GetFornecedorId.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T21:49:46.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FornecedorController.cs",
+              "DocumentMoniker": "C:\\Projetos\\Testes\\MyCompany - Dapper\\MyCompany\\Src\\BackEnd\\MyCompany.Api\\Controllers\\FornecedorController.cs",
+              "RelativeDocumentMoniker": "Src\\BackEnd\\MyCompany.Api\\Controllers\\FornecedorController.cs",
+              "ToolTip": "C:\\Projetos\\Testes\\MyCompany - Dapper\\MyCompany\\Src\\BackEnd\\MyCompany.Api\\Controllers\\FornecedorController.cs",
+              "RelativeToolTip": "Src\\BackEnd\\MyCompany.Api\\Controllers\\FornecedorController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAuwGgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:05:40.042Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

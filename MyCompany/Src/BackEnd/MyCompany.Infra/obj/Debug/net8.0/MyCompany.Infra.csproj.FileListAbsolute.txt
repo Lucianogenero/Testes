@@ -1,0 +1,15 @@
+C:\Projetos\Testes\MyCompany - Dapper\MyCompany\Src\BackEnd\MyCompany.Infra\bin\Debug\net8.0\MyCompany.Infra.deps.json
+C:\Projetos\Testes\MyCompany - Dapper\MyCompany\Src\BackEnd\MyCompany.Infra\bin\Debug\net8.0\MyCompany.Infra.dll
+C:\Projetos\Testes\MyCompany - Dapper\MyCompany\Src\BackEnd\MyCompany.Infra\bin\Debug\net8.0\MyCompany.Infra.pdb
+C:\Projetos\Testes\MyCompany - Dapper\MyCompany\Src\BackEnd\MyCompany.Infra\bin\Debug\net8.0\MyCompany.Domain.dll
+C:\Projetos\Testes\MyCompany - Dapper\MyCompany\Src\BackEnd\MyCompany.Infra\bin\Debug\net8.0\MyCompany.Domain.pdb
+C:\Projetos\Testes\MyCompany - Dapper\MyCompany\Src\BackEnd\MyCompany.Infra\obj\Debug\net8.0\MyCompany.Infra.csproj.AssemblyReference.cache
+C:\Projetos\Testes\MyCompany - Dapper\MyCompany\Src\BackEnd\MyCompany.Infra\obj\Debug\net8.0\MyCompany.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Testes\MyCompany - Dapper\MyCompany\Src\BackEnd\MyCompany.Infra\obj\Debug\net8.0\MyCompany.Infra.AssemblyInfoInputs.cache
+C:\Projetos\Testes\MyCompany - Dapper\MyCompany\Src\BackEnd\MyCompany.Infra\obj\Debug\net8.0\MyCompany.Infra.AssemblyInfo.cs
+C:\Projetos\Testes\MyCompany - Dapper\MyCompany\Src\BackEnd\MyCompany.Infra\obj\Debug\net8.0\MyCompany.Infra.csproj.CoreCompileInputs.cache
+C:\Projetos\Testes\MyCompany - Dapper\MyCompany\Src\BackEnd\MyCompany.Infra\obj\Debug\net8.0\MyCompan.C9141FEA.Up2Date
+C:\Projetos\Testes\MyCompany - Dapper\MyCompany\Src\BackEnd\MyCompany.Infra\obj\Debug\net8.0\MyCompany.Infra.dll
+C:\Projetos\Testes\MyCompany - Dapper\MyCompany\Src\BackEnd\MyCompany.Infra\obj\Debug\net8.0\refint\MyCompany.Infra.dll
+C:\Projetos\Testes\MyCompany - Dapper\MyCompany\Src\BackEnd\MyCompany.Infra\obj\Debug\net8.0\MyCompany.Infra.pdb
+C:\Projetos\Testes\MyCompany - Dapper\MyCompany\Src\BackEnd\MyCompany.Infra\obj\Debug\net8.0\ref\MyCompany.Infra.dll
